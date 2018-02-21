@@ -1,0 +1,11 @@
+c:\users\stevenk\Source\Repos\LinuxTest\LinuxTest\bin\Debug\netcoreapp2.0\LinuxTest.deps.json
+c:\users\stevenk\Source\Repos\LinuxTest\LinuxTest\bin\Debug\netcoreapp2.0\LinuxTest.runtimeconfig.json
+c:\users\stevenk\Source\Repos\LinuxTest\LinuxTest\bin\Debug\netcoreapp2.0\LinuxTest.runtimeconfig.dev.json
+c:\users\stevenk\Source\Repos\LinuxTest\LinuxTest\bin\Debug\netcoreapp2.0\LinuxTest.dll
+c:\users\stevenk\Source\Repos\LinuxTest\LinuxTest\bin\Debug\netcoreapp2.0\LinuxTest.pdb
+c:\users\stevenk\Source\Repos\LinuxTest\LinuxTest\obj\Debug\netcoreapp2.0\LinuxTest.csprojResolveAssemblyReference.cache
+c:\users\stevenk\Source\Repos\LinuxTest\LinuxTest\obj\Debug\netcoreapp2.0\LinuxTest.csproj.CoreCompileInputs.cache
+c:\users\stevenk\Source\Repos\LinuxTest\LinuxTest\obj\Debug\netcoreapp2.0\LinuxTest.AssemblyInfoInputs.cache
+c:\users\stevenk\Source\Repos\LinuxTest\LinuxTest\obj\Debug\netcoreapp2.0\LinuxTest.AssemblyInfo.cs
+c:\users\stevenk\Source\Repos\LinuxTest\LinuxTest\obj\Debug\netcoreapp2.0\LinuxTest.dll
+c:\users\stevenk\Source\Repos\LinuxTest\LinuxTest\obj\Debug\netcoreapp2.0\LinuxTest.pdb
